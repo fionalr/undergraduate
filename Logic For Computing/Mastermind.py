@@ -1,6 +1,6 @@
 """
 CISC 204 Modelling Project 
-Group 6: Shauna Tunistra, Fiona LeClair-Robertson, Aniket Mukherjee, 
+Group 6: Shauna Tunistra, Fiona LeClair-Robertson, Aniket Mukherjee
 The following program models a game of mastermind, and determines the number of solutions possible given a 
 game configuration and a guess. 
 """
